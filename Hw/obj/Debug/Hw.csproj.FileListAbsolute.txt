@@ -1,0 +1,15 @@
+C:\Users\zunderz\Documents\projc#\Hw\Hw\bin\Debug\Hw.exe.config
+C:\Users\zunderz\Documents\projc#\Hw\Hw\bin\Debug\Hw.exe
+C:\Users\zunderz\Documents\projc#\Hw\Hw\bin\Debug\Hw.pdb
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.csproj.AssemblyReference.cache
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.Form1.resources
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.Properties.Resources.resources
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.csproj.GenerateResource.cache
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.csproj.CoreCompileInputs.cache
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.exe
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.pdb
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.FormTaskOne.resources
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.FormTaskTwo.resources
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.FormTaskThree.resources
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.FormTaskFour1.resources
+C:\Users\zunderz\Documents\projc#\Hw\Hw\obj\Debug\Hw.FormTaskFour2.resources
